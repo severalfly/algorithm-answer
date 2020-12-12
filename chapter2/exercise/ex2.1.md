@@ -27,4 +27,4 @@ for j = 2 to A.length
     A[i+1] = key
 ```
 
-[python 实现](#./code/code2.1-2.py)
+[python 实现](./code/code2.1-2.py)
