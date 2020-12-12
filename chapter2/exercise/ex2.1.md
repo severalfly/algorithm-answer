@@ -14,6 +14,17 @@
 > 重写过程`INSERTION-SORT`，使之按非升序（而不是降序）排序。
 
 # 回答
+伪代码如下
+```
+for j = 2 to A.length
+    key = A[j]
+    i = j -1
+    
+    while(i > 0 && A[i] < key)
+        A[i+1] = A[i]
+        i = i -1
+        
+    A[i+1] = key
 ```
 
-```
+[python 实现](#./code/code2.1-2.py)
