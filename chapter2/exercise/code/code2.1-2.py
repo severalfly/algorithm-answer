@@ -1,3 +1,6 @@
+# coding:utf-8
+
+# 实现插入排序
 A = [5, 2, 4, 6, 1, 3]
 print(A)
 for j in range(1, len(A)):
