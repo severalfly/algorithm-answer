@@ -44,3 +44,6 @@
 
 比如，在1.8的jdk中的排序，就是会依赖数组的大小，小于8个时，会默认使用插入排序，超过时，才使用快速排序
 
+
+# 如果本系列文章对您有用，欢迎小额赞助
+![image.png](http://ww1.sinaimg.cn/large/d1bc6e1ely1gll5hqkm3uj20880akjsz.jpg)

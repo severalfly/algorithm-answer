@@ -84,3 +84,7 @@ if carray > 0
 ```
 
 [python实现](./code/code2.1-4.py)
+
+
+# 如果本系列文章对您有用，欢迎小额赞助
+![image.png](http://ww1.sinaimg.cn/large/d1bc6e1ely1gll5hqkm3uj20880akjsz.jpg)
